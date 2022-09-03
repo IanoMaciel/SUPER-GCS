@@ -1,9 +1,9 @@
 # Período 
-**Duração**: 29/08 e 30/08.
+**Duração**: 29/08 e 05/09.
 
 # Reunião 
-**Data**: 30/08. <br/>
-**Hora**: 20h. <br/>
+**Data**: 03/09. <br/>
+**Hora**: 14h30. <br/>
 **Local**: Remoto.
 
 # Objetivo
